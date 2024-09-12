@@ -1,0 +1,6 @@
+cffi==1.17.1
+cryptography==43.0.1
+manuf==1.1.5
+pycparser==2.22
+scapy==2.5.0
+termcolor==2.4.0
